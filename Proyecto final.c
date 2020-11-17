@@ -1,3 +1,4 @@
+/////////////////////////
 #include <stdio.h>
 
 void iniciarTablero();
@@ -92,4 +93,3 @@ void leerCoordenadas(FILE *f)
 	}
 } 
 
-.
