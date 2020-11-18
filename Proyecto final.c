@@ -1,3 +1,8 @@
+////A ver si esto es de tu talla xd////
+
+
+
+
 #include <stdio.h>
 
 void iniciarTablero();
