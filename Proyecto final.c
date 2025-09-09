@@ -128,7 +128,7 @@ void archivo(char nombre[], int tam, int edad, int ganada, int barcos){
 	int edad: la edad
 	int ganada: recibe un 1 o un 0, si el jugador gana guardara 1
 	y si pierde guardara un 0
-	int barcos: recibe el numero de barcos que logo hundir si perdio*/
+	int barcos: recibe el numero de barcos que logo hundir si perdio al final*/
 	
 	FILE * flujo;
 	flujo = fopen("informacion.txt", "a");
